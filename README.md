@@ -1,13 +1,13 @@
 # AI_AGENT_RECOMMENDATION_APPLICATION
 
-Overview
+**Overview**
 
 The AI Agent Recommendation Application is a platform that helps users find the most suitable AI agents based on their specific requirements, such as travel planning, business automation, or customer support. The application leverages Machine Learning (ML), Reinforcement Learning, and Large Language Models (LLMs) to provide highly personalized and dynamic recommendations.
 
 
 ---
 
-Tech Stack
+**Tech Stack**
 
 Frontend (Next.js)
 
@@ -34,7 +34,7 @@ Cross-Origin Support: Flask-CORS
 
 ---
 
-Key Features
+**Key Features**
 
 ✅ AI Agent Discovery: Users can search and filter AI agents based on industry-specific needs.
 
@@ -51,7 +51,7 @@ Key Features
 
 ---
 
-Installation & Setup
+**Installation & Setup**
 
 1. Clone the Repository
 
@@ -103,7 +103,7 @@ API Endpoints
 
 ---
 
-Project Structure
+**Project Structure**
 
 AI_AGENT_RECOMMENDATION_APPLICATION/
 
@@ -125,7 +125,7 @@ AI_AGENT_RECOMMENDATION_APPLICATION/
 
 ---
 
-Future Enhancements
+**Future Enhancements**
 
 🔹 Advanced NLP-based query understanding
 
@@ -138,7 +138,7 @@ Future Enhancements
 
 ---
 
-Contributing
+**Contributing**
 
 1. Fork the repository.
 
@@ -159,14 +159,14 @@ Contributing
 
 ---
 
-License
+**License**
 
 This project is open-source and available under the MIT License.
 
 
 ---
 
-Contact
+**Contact**
 
 📧 Akhilesh Kumar - GitHub Profile
 
