@@ -37,10 +37,15 @@ Cross-Origin Support: Flask-CORS
 Key Features
 
 ✅ AI Agent Discovery: Users can search and filter AI agents based on industry-specific needs.
+
 ✅ Personalized Recommendations: ML algorithms analyze user preferences to provide optimized suggestions.
+
 ✅ Reinforcement Learning: The system improves over time by learning from user interactions.
+
 ✅ LLM-Based Understanding: NLP models help refine agent recommendations.
+
 ✅ Real-Time Data Processing: Efficient backend ensures quick responses and seamless experience.
+
 ✅ Modern UI: Built with Next.js and Tailwind CSS for a smooth and interactive user experience.
 
 
@@ -51,6 +56,7 @@ Installation & Setup
 1. Clone the Repository
 
 git clone https://github.com/Akhilesh1712/AI_AGENT_RECOMMENDATION_APPLICATION.git
+
 cd AI_AGENT_RECOMMENDATION_APPLICATION
 
 
@@ -63,6 +69,7 @@ Install Dependencies
 Navigate to the backend directory (mybackend) and install required packages:
 
 cd mybackend
+
 pip install -r requirements.txt
 
 Run the Flask Server
@@ -79,6 +86,7 @@ By default, the Flask backend runs on http://127.0.0.1:5000
 Install Dependencies
 
 cd frontend
+
 npm install
 
 Run the Next.js Server
@@ -98,7 +106,8 @@ API Endpoints
 Project Structure
 
 AI_AGENT_RECOMMENDATION_APPLICATION/
-│── mybackend/                # Backend (Flask, ML, LLM)
+
+│── mybackend/    # Backend (Flask, ML, LLM)
 │   ├── app.py                # Main Flask server
 │   ├── model/                # ML & NLP models
 │   ├── requirements.txt       # Backend dependencies
@@ -119,8 +128,11 @@ AI_AGENT_RECOMMENDATION_APPLICATION/
 Future Enhancements
 
 🔹 Advanced NLP-based query understanding
+
 🔹 AI Chatbot to assist users in selecting AI agents
+
 🔹 User Authentication & Profiles
+
 🔹 More AI agent categories & industry-specific filters
 
 
@@ -157,10 +169,5 @@ This project is open-source and available under the MIT License.
 Contact
 
 📧 Akhilesh Kumar - GitHub Profile
-
-
----
-
-This README is structured for clarity, ease of use, and professionalism. Let me know if you'd like any modifications! 🚀
 
 
